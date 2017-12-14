@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dbaffa597968a4a6c81eeb039d7f7794
+timeCreated: 1513149501
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Avenir
+  fontNames:
+  - Avenir
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
